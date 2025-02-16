@@ -6,8 +6,6 @@ I'm **David Gérard**, a Ph.D. student at **UCL** in the [**Connected Electronic
 I have experience in both **academic research and industry projects**, with a background in **biomedical engineering, AI, and hardware-software co-design**.
 
 ## 💡 My Values
-### **Commitment to Open Science & Reproducibility**
-I strongly believe that **scientific progress should be transparent, accessible, and reproducible**. Research should not be hindered by proprietary tools, closed datasets, or opaque methodologies. I advocate for **open access to knowledge** and **data-sharing practices** that empower researchers to **build upon existing work rather than reinventing the wheel**.
 
 ### **Collaborative Research & Knowledge Sharing**
 Science thrives in collaboration. I actively support **cross-disciplinary, international, and open collaborations** to accelerate innovation. I contribute to and **maintain open-source projects** that facilitate knowledge exchange and help researchers share their work efficiently.
