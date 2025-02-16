@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub Profile!
 
-<!--
-**David-GERARD/David-GERARD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📌 About Me
+I'm **David Gérard**, a Ph.D. student at **UCL** in the [**Connected Electronics and Photonics Center for Doctoral Training**](https://www.ucl.ac.uk/electronic-electrical-engineering/study/postgraduate-research/cdt-photonic-and-electronic-systems). My expertise bridges **machine learning software and hardware**, with a strong focus on **neuromorphic computing** and **AI acceleration** for **energy-efficient AI**.  
 
-Here are some ideas to get you started:
+I have experience in both **academic research and industry projects**, with a background in **biomedical engineering, AI, and hardware-software co-design**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 My Values
+### **Commitment to Open Science & Reproducibility**
+I strongly believe that **scientific progress should be transparent, accessible, and reproducible**. Research should not be hindered by proprietary tools, closed datasets, or opaque methodologies. I advocate for **open access to knowledge** and **data-sharing practices** that empower researchers to **build upon existing work rather than reinventing the wheel**.
+
+### **Collaborative Research & Knowledge Sharing**
+Science thrives in collaboration. I actively support **cross-disciplinary, international, and open collaborations** to accelerate innovation. I contribute to and **maintain open-source projects** that facilitate knowledge exchange and help researchers share their work efficiently.
+
+### **Reproducibility & Best Practices**
+Reproducibility is a cornerstone of reliable research. I promote **best practices in software development** for academic projects, including:
+- Version control with **Git & GitHub**.
+- Clear **documentation & code modularity**.
+- Use of **containerized environments** (e.g., Docker) and **Jupyter notebooks** to enable seamless replication of experiments.
+
+I am also preparing a **workshop on reproducible open-source research**, focusing on **making code more readable, understandable, and shareable** in scientific communities.
+
+### **Pushing for Open-Source Adoption in Academia**
+Too often, research is tied to proprietary tools that restrict innovation. I push for increased adoption of **open-source frameworks, tools, and methodologies** to:
+- Reduce barriers for researchers worldwide.
+- Increase transparency in AI and scientific computing.
+- Promote ethical AI development and energy-efficient computing solutions.
+
+By integrating **open-source tools in research workflows**, we can make academic research more **accessible, inclusive, and sustainable**.
+
+
+### 🏆 Key Roles & Contributions
+- **Project Manager of [PettingZoo](https://www.farama.org/PettingZoo/)** – A popular RL library designed for multi-agent reinforcement learning environments.
+- **Ph.D. Researcher** – Working on **Photonic Integrated Circuits for AI-accelretaion** at UCL.
+- **Teaching Assistant at UCL** – Leading Python labs on **Applied Machine Learning Systems** and **Data Acquisition & Processing Systems** for the [**Integrated Machine Learning Systems MSc**](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/integrated-machine-learning-systems-msc).
+- **Former Researcher at Cambridge & Columbia** – Experience in **analog computing, bioinformatics, and AI-powered neuroscience**.
+
+### 🚀 What You'll Find Here
+- **Machine Learning & AI** – Projects on **Reinforcement Learning, AI Acceleration, and Reservoir Computing**.
+- **Hardware-Software Integration** – Research on **Neuromorphic Engineering and AI-powered Circuits**.
+- **Open-Source Contributions** – Active participation in AI and **multi-agent reinforcement learning libraries**.
+
+### 🔗 Connect With Me
+- 🌐 [LinkedIn](https://www.linkedin.com/in/david-gerard-cu)
+- 📧 Email: [david.gerard.23@ucl.ac.uk](mailto:david.gerard.23@ucl.ac.uk)
+- 🏗️ Check out my work on **[GitHub](https://github.com/David-GERARD)**!
+
+🚀🚀🚀
