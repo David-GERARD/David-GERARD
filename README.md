@@ -34,6 +34,7 @@ I have experience in both **academic research and industry projects**, with a ba
   <summary><h2>🏆 Key Roles & Contributions</h2></summary>
 
   - **Project Manager of [PettingZoo](https://www.farama.org/PettingZoo/)** – A popular RL library designed for multi-agent reinforcement learning environments.
+  - **Vice President of the UCL Photonics Society** - Creating and workshops around optics, photonics, and teaching students and researchers good coding practices.
   - **Ph.D. Researcher** – Working on **Photonic Integrated Circuits for AI-accelretaion** at UCL.
   - **Teaching Assistant at UCL** – Leading Python labs on **Applied Machine Learning Systems** and **Data Acquisition & Processing Systems** for the [**Integrated Machine Learning Systems MSc**](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/integrated-machine-learning-systems-msc).
   - **Former Researcher at Cambridge & Columbia** – Experience in **analog computing, bioinformatics, and AI-powered neuroscience**.
